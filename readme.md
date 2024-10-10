@@ -1,7 +1,2 @@
-# Homework 4
+# Homework 5
 
-## Overview
-
-- Generating fake data using the `Faker` library.
-- Creating test data for unit testing purposes.
-- Implementing user input handling for calculator operations.
