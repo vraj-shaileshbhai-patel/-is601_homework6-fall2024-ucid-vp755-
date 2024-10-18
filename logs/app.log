@@ -1,0 +1,1001 @@
+2024-10-17 20:45:11,308 - root - INFO - Logging configured.
+2024-10-17 20:45:11,309 - root - INFO - Environment variables loaded.
+2024-10-17 20:45:11,309 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 20:45:11,309 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 20:45:11,309 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 20:45:11,332 - root - INFO - Logging configured.
+2024-10-17 20:45:11,332 - root - INFO - Environment variables loaded.
+2024-10-17 20:45:11,332 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 20:45:11,332 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 20:45:11,332 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 20:45:11,341 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 20:45:11,346 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 20:45:11,347 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 20:45:11,349 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 21:04:28,782 - root - INFO - Logging configured.
+2024-10-17 21:04:28,782 - root - INFO - Environment variables loaded.
+2024-10-17 21:04:28,787 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:04:28,787 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:04:28,788 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:14:06,201 - root - INFO - Logging configured.
+2024-10-17 21:14:06,202 - root - INFO - Environment variables loaded.
+2024-10-17 21:14:06,206 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:14:06,206 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:14:06,206 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:15:12,472 - root - INFO - Logging configured.
+2024-10-17 21:15:12,473 - root - INFO - Environment variables loaded.
+2024-10-17 21:15:12,477 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:15:12,477 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:15:12,477 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:15:12,478 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:15:12,478 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:15:12,478 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:15:26,464 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 21:15:54,867 - root - INFO - Application exit.
+2024-10-17 21:15:54,868 - root - INFO - Application shutdown.
+2024-10-17 21:18:26,424 - root - INFO - Logging configured.
+2024-10-17 21:18:26,424 - root - INFO - Environment variables loaded.
+2024-10-17 21:18:26,431 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:18:26,431 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:18:26,432 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:18:26,432 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:18:26,433 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:18:26,433 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:18:37,124 - root - INFO - The result of 3 - 2 is 1
+2024-10-17 21:19:10,507 - root - INFO - Application exit.
+2024-10-17 21:19:10,508 - root - INFO - Application shutdown.
+2024-10-17 21:21:40,771 - root - INFO - Logging configured.
+2024-10-17 21:21:40,772 - root - INFO - Environment variables loaded.
+2024-10-17 21:21:40,776 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:21:40,777 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:21:40,777 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:21:40,778 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:21:40,778 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:21:40,778 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:21:59,473 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 21:22:18,659 - root - INFO - The result of 1 + 2 is 3
+2024-10-17 21:22:41,305 - root - INFO - Application exit.
+2024-10-17 21:22:41,305 - root - INFO - Application shutdown.
+2024-10-17 21:22:52,264 - root - INFO - Logging configured.
+2024-10-17 21:22:52,264 - root - INFO - Environment variables loaded.
+2024-10-17 21:22:52,269 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:22:52,269 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:22:52,269 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:22:52,270 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:22:52,270 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:22:52,270 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:23:03,763 - root - INFO - Application exit.
+2024-10-17 21:23:03,764 - root - INFO - Application shutdown.
+2024-10-17 21:23:37,923 - root - INFO - Logging configured.
+2024-10-17 21:23:37,924 - root - INFO - Environment variables loaded.
+2024-10-17 21:23:37,924 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:23:37,924 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:23:37,924 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:23:37,924 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:23:37,924 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:23:37,924 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:23:37,925 - root - INFO - Application exit.
+2024-10-17 21:23:37,925 - root - INFO - Application shutdown.
+2024-10-17 21:23:37,927 - root - INFO - Logging configured.
+2024-10-17 21:23:37,927 - root - INFO - Environment variables loaded.
+2024-10-17 21:23:37,927 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:23:37,927 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:23:37,927 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:23:37,927 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:23:37,927 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:23:37,927 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:23:37,927 - root - INFO - Application exit.
+2024-10-17 21:23:37,927 - root - INFO - Application shutdown.
+2024-10-17 21:23:37,933 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 21:23:37,937 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 21:23:37,938 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 21:23:37,939 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 21:23:37,941 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 21:23:37,943 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 21:23:37,944 - root - ERROR - Error: Division by zero.
+2024-10-17 21:23:56,608 - root - INFO - Logging configured.
+2024-10-17 21:23:56,608 - root - INFO - Environment variables loaded.
+2024-10-17 21:23:56,611 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:23:56,612 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:23:56,612 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:23:56,612 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:23:56,612 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:23:56,612 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:24:03,921 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 21:27:59,965 - root - INFO - Application exit.
+2024-10-17 21:27:59,968 - root - INFO - Application shutdown.
+2024-10-17 21:42:54,790 - root - INFO - Logging configured.
+2024-10-17 21:42:54,790 - root - INFO - Environment variables loaded.
+2024-10-17 21:42:54,794 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:42:54,795 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:42:54,795 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:42:54,795 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:42:54,795 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:42:54,795 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:50:34,009 - root - INFO - Application exit.
+2024-10-17 21:50:34,011 - root - INFO - Application shutdown.
+2024-10-17 21:53:33,622 - root - INFO - Logging configured.
+2024-10-17 21:53:33,622 - root - INFO - Environment variables loaded.
+2024-10-17 21:53:33,626 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:53:33,627 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:53:33,627 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:53:33,627 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:53:33,628 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:53:33,628 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:53:38,778 - root - INFO - The result of 3 + 3 is 6
+2024-10-17 21:53:49,526 - root - INFO - Application exit.
+2024-10-17 21:53:49,526 - root - INFO - Application shutdown.
+2024-10-17 21:55:03,631 - root - INFO - Logging configured.
+2024-10-17 21:55:03,632 - root - INFO - Environment variables loaded.
+2024-10-17 21:55:03,633 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:55:03,633 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:55:03,633 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:55:03,633 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:55:03,634 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:55:03,634 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:55:03,634 - root - INFO - Application exit.
+2024-10-17 21:55:03,634 - root - INFO - Application shutdown.
+2024-10-17 21:55:03,636 - root - INFO - Logging configured.
+2024-10-17 21:55:03,637 - root - INFO - Environment variables loaded.
+2024-10-17 21:55:03,637 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 21:55:03,637 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 21:55:03,637 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 21:55:03,637 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 21:55:03,637 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 21:55:03,637 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 21:55:03,637 - root - INFO - Application exit.
+2024-10-17 21:55:03,637 - root - INFO - Application shutdown.
+2024-10-17 21:55:03,652 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 21:55:03,658 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 21:55:03,660 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 21:55:03,662 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 21:55:03,663 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 21:55:03,666 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 21:55:03,668 - root - ERROR - Error: Division by zero.
+2024-10-17 22:00:10,821 - root - INFO - Logging configured.
+2024-10-17 22:00:10,822 - root - INFO - Environment variables loaded.
+2024-10-17 22:00:10,823 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:00:10,823 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:00:10,823 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:00:10,823 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:00:10,824 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:00:10,824 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:00:10,824 - root - INFO - Application exit.
+2024-10-17 22:00:10,824 - root - INFO - Application shutdown.
+2024-10-17 22:00:10,826 - root - INFO - Logging configured.
+2024-10-17 22:00:10,827 - root - INFO - Environment variables loaded.
+2024-10-17 22:00:10,827 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:00:10,827 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:00:10,827 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:00:10,827 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:00:10,827 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:00:10,827 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:00:10,827 - root - INFO - Application exit.
+2024-10-17 22:00:10,827 - root - INFO - Application shutdown.
+2024-10-17 22:00:10,840 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:00:10,845 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:00:10,847 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:00:10,850 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:00:10,853 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:00:10,856 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:00:10,858 - root - ERROR - Error: Division by zero.
+2024-10-17 22:00:23,262 - root - INFO - Logging configured.
+2024-10-17 22:00:23,263 - root - INFO - Environment variables loaded.
+2024-10-17 22:00:23,263 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:00:23,263 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:00:23,263 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:00:23,263 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:00:23,264 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:00:23,264 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:00:23,264 - root - INFO - Application exit.
+2024-10-17 22:00:23,264 - root - INFO - Application shutdown.
+2024-10-17 22:00:23,266 - root - INFO - Logging configured.
+2024-10-17 22:00:23,267 - root - INFO - Environment variables loaded.
+2024-10-17 22:00:23,267 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:00:23,267 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:00:23,267 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:00:23,267 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:00:23,267 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:00:23,267 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:00:23,267 - root - INFO - Application exit.
+2024-10-17 22:00:23,267 - root - INFO - Application shutdown.
+2024-10-17 22:00:23,281 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:00:23,284 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:00:23,287 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:00:23,289 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:00:23,291 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:00:23,293 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:00:23,295 - root - ERROR - Error: Division by zero.
+2024-10-17 22:12:00,105 - root - INFO - Logging configured.
+2024-10-17 22:12:00,106 - root - INFO - Environment variables loaded.
+2024-10-17 22:12:00,106 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:12:00,106 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:12:00,107 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:12:00,107 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:12:00,107 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:12:00,107 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:12:00,107 - root - INFO - Application exit.
+2024-10-17 22:12:00,107 - root - INFO - Application shutdown.
+2024-10-17 22:12:00,110 - root - INFO - Logging configured.
+2024-10-17 22:12:00,110 - root - INFO - Environment variables loaded.
+2024-10-17 22:12:00,111 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:12:00,111 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:12:00,111 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:12:00,111 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:12:00,111 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:12:00,111 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:12:00,111 - root - INFO - Application exit.
+2024-10-17 22:12:00,111 - root - INFO - Application shutdown.
+2024-10-17 22:12:00,125 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:12:00,130 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:12:00,132 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:12:00,134 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:12:00,136 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:12:00,138 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:12:00,140 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:12:00,151 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:12:00,153 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:12:00,155 - root - ERROR - Error: Division by zero.
+2024-10-17 22:14:57,366 - root - INFO - Logging configured.
+2024-10-17 22:14:57,367 - root - INFO - Environment variables loaded.
+2024-10-17 22:14:57,367 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:14:57,368 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:14:57,368 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:14:57,368 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:14:57,368 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:14:57,368 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:14:57,368 - root - INFO - Application exit.
+2024-10-17 22:14:57,368 - root - INFO - Application shutdown.
+2024-10-17 22:14:57,371 - root - INFO - Logging configured.
+2024-10-17 22:14:57,372 - root - INFO - Environment variables loaded.
+2024-10-17 22:14:57,372 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:14:57,372 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:14:57,372 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:14:57,372 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:14:57,372 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:14:57,372 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:14:57,372 - root - INFO - Application exit.
+2024-10-17 22:14:57,372 - root - INFO - Application shutdown.
+2024-10-17 22:14:57,387 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:14:57,392 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:14:57,394 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:14:57,396 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:14:57,398 - root - ERROR - Too many arguments provided.
+2024-10-17 22:14:57,407 - root - ERROR - Too many arguments provided.
+2024-10-17 22:14:57,412 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:14:57,417 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:14:57,418 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:14:57,420 - root - ERROR - Error: Division by zero.
+2024-10-17 22:15:09,425 - root - INFO - Logging configured.
+2024-10-17 22:15:09,426 - root - INFO - Environment variables loaded.
+2024-10-17 22:15:09,427 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:15:09,427 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:15:09,427 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:15:09,427 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:15:09,427 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:15:09,427 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:15:09,427 - root - INFO - Application exit.
+2024-10-17 22:15:09,428 - root - INFO - Application shutdown.
+2024-10-17 22:15:09,430 - root - INFO - Logging configured.
+2024-10-17 22:15:09,430 - root - INFO - Environment variables loaded.
+2024-10-17 22:15:09,431 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:15:09,431 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:15:09,431 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:15:09,431 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:15:09,431 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:15:09,431 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:15:09,431 - root - INFO - Application exit.
+2024-10-17 22:15:09,431 - root - INFO - Application shutdown.
+2024-10-17 22:15:09,445 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:15:09,450 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:15:09,452 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:15:09,454 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:15:09,456 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:15:09,458 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:15:09,460 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:15:09,471 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:15:09,473 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:15:09,476 - root - ERROR - Error: Division by zero.
+2024-10-17 22:15:40,249 - root - INFO - Logging configured.
+2024-10-17 22:15:40,250 - root - INFO - Environment variables loaded.
+2024-10-17 22:15:40,250 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:15:40,251 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:15:40,251 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:15:40,251 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:15:40,251 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:15:40,251 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:15:40,252 - root - INFO - Application exit.
+2024-10-17 22:15:40,252 - root - INFO - Application shutdown.
+2024-10-17 22:15:40,255 - root - INFO - Logging configured.
+2024-10-17 22:15:40,255 - root - INFO - Environment variables loaded.
+2024-10-17 22:15:40,255 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:15:40,255 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:15:40,256 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:15:40,256 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:15:40,256 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:15:40,256 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:15:40,256 - root - INFO - Application exit.
+2024-10-17 22:15:40,256 - root - INFO - Application shutdown.
+2024-10-17 22:15:40,269 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:15:40,274 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:15:40,276 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:15:40,278 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:15:40,280 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:15:40,281 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:15:40,284 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:15:40,286 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:15:40,288 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:15:40,290 - root - ERROR - Error: Division by zero.
+2024-10-17 22:17:34,871 - root - INFO - Logging configured.
+2024-10-17 22:17:34,872 - root - INFO - Environment variables loaded.
+2024-10-17 22:17:34,872 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:17:34,872 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:17:34,873 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:17:34,873 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:17:34,873 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:17:34,873 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:17:34,873 - root - INFO - Application exit.
+2024-10-17 22:17:34,873 - root - INFO - Application shutdown.
+2024-10-17 22:17:34,876 - root - INFO - Logging configured.
+2024-10-17 22:17:34,876 - root - INFO - Environment variables loaded.
+2024-10-17 22:17:34,876 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:17:34,876 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:17:34,876 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:17:34,876 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:17:34,876 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:17:34,877 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:17:34,877 - root - INFO - Application exit.
+2024-10-17 22:17:34,877 - root - INFO - Application shutdown.
+2024-10-17 22:17:34,891 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:17:34,896 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:17:34,898 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:17:34,900 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:17:34,903 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:17:34,906 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:17:34,908 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:17:34,918 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:17:34,920 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:17:34,923 - root - ERROR - Error: Division by zero.
+2024-10-17 22:17:52,479 - root - INFO - Logging configured.
+2024-10-17 22:17:52,480 - root - INFO - Environment variables loaded.
+2024-10-17 22:17:52,480 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:17:52,480 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:17:52,480 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:17:52,481 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:17:52,481 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:17:52,481 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:17:52,481 - root - INFO - Application exit.
+2024-10-17 22:17:52,481 - root - INFO - Application shutdown.
+2024-10-17 22:17:52,484 - root - INFO - Logging configured.
+2024-10-17 22:17:52,485 - root - INFO - Environment variables loaded.
+2024-10-17 22:17:52,485 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:17:52,485 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:17:52,485 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:17:52,485 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:17:52,485 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:17:52,485 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:17:52,485 - root - INFO - Application exit.
+2024-10-17 22:17:52,485 - root - INFO - Application shutdown.
+2024-10-17 22:17:52,498 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:17:52,502 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:17:52,505 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:17:52,507 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:17:52,509 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:17:52,511 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:17:52,513 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:17:52,514 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:17:52,517 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:17:52,519 - root - ERROR - Error: Division by zero.
+2024-10-17 22:18:16,205 - root - INFO - Logging configured.
+2024-10-17 22:18:16,206 - root - INFO - Environment variables loaded.
+2024-10-17 22:18:16,206 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:18:16,206 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:18:16,206 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:18:16,206 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:18:16,206 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:18:16,207 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:18:16,207 - root - INFO - Application exit.
+2024-10-17 22:18:16,207 - root - INFO - Application shutdown.
+2024-10-17 22:18:16,209 - root - INFO - Logging configured.
+2024-10-17 22:18:16,209 - root - INFO - Environment variables loaded.
+2024-10-17 22:18:16,210 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:18:16,210 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:18:16,210 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-17 22:18:16,210 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:18:16,210 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:18:16,210 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:18:16,210 - root - INFO - Application exit.
+2024-10-17 22:18:16,210 - root - INFO - Application shutdown.
+2024-10-17 22:18:16,223 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:18:16,226 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:18:16,228 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:18:16,230 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:18:16,232 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:18:16,234 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:18:16,236 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:18:16,239 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:18:16,240 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:18:16,242 - root - ERROR - Error: Division by zero.
+2024-10-17 22:19:59,543 - root - INFO - Logging configured.
+2024-10-17 22:19:59,544 - root - INFO - Environment variables loaded.
+2024-10-17 22:19:59,545 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:19:59,545 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:19:59,546 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:19:59,546 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:19:59,546 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:19:59,546 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:19:59,546 - root - INFO - Application exit.
+2024-10-17 22:19:59,546 - root - INFO - Application shutdown.
+2024-10-17 22:19:59,549 - root - INFO - Logging configured.
+2024-10-17 22:19:59,549 - root - INFO - Environment variables loaded.
+2024-10-17 22:19:59,549 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:19:59,549 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:19:59,550 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:19:59,550 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:19:59,550 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:19:59,550 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:19:59,550 - root - INFO - Application exit.
+2024-10-17 22:19:59,550 - root - INFO - Application shutdown.
+2024-10-17 22:19:59,564 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:19:59,568 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:19:59,571 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:19:59,573 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:19:59,575 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:19:59,577 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:19:59,579 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:19:59,581 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:19:59,584 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:19:59,586 - root - ERROR - Error: Division by zero.
+2024-10-17 22:25:02,430 - root - INFO - Logging configured.
+2024-10-17 22:25:02,432 - root - INFO - Environment variables loaded.
+2024-10-17 22:25:02,432 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:25:02,432 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:25:02,432 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:25:02,432 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:25:02,432 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:25:02,432 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:25:02,433 - root - INFO - Application exit.
+2024-10-17 22:25:02,433 - root - INFO - Application shutdown.
+2024-10-17 22:25:02,435 - root - INFO - Logging configured.
+2024-10-17 22:25:02,435 - root - INFO - Environment variables loaded.
+2024-10-17 22:25:02,436 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:25:02,436 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:25:02,436 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:25:02,436 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:25:02,436 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:25:02,436 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:25:02,436 - root - INFO - Application exit.
+2024-10-17 22:25:02,436 - root - INFO - Application shutdown.
+2024-10-17 22:25:02,450 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:25:02,453 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:25:02,456 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:25:02,458 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:25:02,459 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:25:02,461 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:25:02,463 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:25:02,465 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:25:02,467 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:25:02,469 - root - ERROR - Error: Division by zero.
+2024-10-17 22:26:59,950 - root - INFO - Logging configured.
+2024-10-17 22:26:59,951 - root - INFO - Environment variables loaded.
+2024-10-17 22:26:59,952 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:26:59,952 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:26:59,952 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:26:59,953 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:26:59,953 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:26:59,953 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:26:59,953 - root - INFO - Application exit.
+2024-10-17 22:26:59,953 - root - INFO - Application shutdown.
+2024-10-17 22:26:59,955 - root - INFO - Logging configured.
+2024-10-17 22:26:59,956 - root - INFO - Environment variables loaded.
+2024-10-17 22:26:59,956 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:26:59,956 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:26:59,957 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:26:59,957 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:26:59,957 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:26:59,957 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:26:59,957 - root - INFO - Application exit.
+2024-10-17 22:26:59,957 - root - INFO - Application shutdown.
+2024-10-17 22:26:59,971 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:26:59,975 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:26:59,977 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:26:59,979 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:26:59,981 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:26:59,983 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:26:59,985 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:26:59,987 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:26:59,990 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:26:59,992 - root - ERROR - Error: Division by zero.
+2024-10-17 22:28:38,719 - root - INFO - Logging configured.
+2024-10-17 22:28:38,720 - root - INFO - Environment variables loaded.
+2024-10-17 22:28:38,720 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:28:38,720 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:28:38,721 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:28:38,721 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:28:38,721 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:28:38,721 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:28:38,721 - root - INFO - Application exit.
+2024-10-17 22:28:38,722 - root - INFO - Application shutdown.
+2024-10-17 22:28:38,724 - root - INFO - Logging configured.
+2024-10-17 22:28:38,725 - root - INFO - Environment variables loaded.
+2024-10-17 22:28:38,725 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:28:38,725 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:28:38,725 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:28:38,725 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:28:38,725 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:28:38,725 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:28:38,725 - root - INFO - Application exit.
+2024-10-17 22:28:38,725 - root - INFO - Application shutdown.
+2024-10-17 22:28:38,739 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:28:38,743 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:28:38,745 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:28:38,747 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:28:38,749 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:28:38,751 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:28:38,753 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:28:38,764 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:28:38,766 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:28:38,768 - root - ERROR - Error: Division by zero.
+2024-10-17 22:28:38,770 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:29:00,122 - root - INFO - Logging configured.
+2024-10-17 22:29:00,123 - root - INFO - Environment variables loaded.
+2024-10-17 22:29:00,123 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:29:00,123 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:29:00,124 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:29:00,124 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:29:00,124 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:29:00,124 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:29:00,124 - root - INFO - Application exit.
+2024-10-17 22:29:00,124 - root - INFO - Application shutdown.
+2024-10-17 22:29:00,127 - root - INFO - Logging configured.
+2024-10-17 22:29:00,127 - root - INFO - Environment variables loaded.
+2024-10-17 22:29:00,127 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:29:00,127 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:29:00,128 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:29:00,128 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:29:00,128 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:29:00,128 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:29:00,128 - root - INFO - Application exit.
+2024-10-17 22:29:00,128 - root - INFO - Application shutdown.
+2024-10-17 22:29:00,143 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:29:00,146 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:29:00,148 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:29:00,150 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:29:00,152 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:29:00,154 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:29:00,156 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:29:00,167 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:29:00,169 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:29:00,171 - root - ERROR - Error: Division by zero.
+2024-10-17 22:29:00,173 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:02,874 - root - INFO - Logging configured.
+2024-10-17 22:30:02,875 - root - INFO - Environment variables loaded.
+2024-10-17 22:30:02,875 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:30:02,875 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:30:02,876 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:30:02,876 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:30:02,876 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:30:02,876 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:30:02,876 - root - INFO - Application exit.
+2024-10-17 22:30:02,876 - root - INFO - Application shutdown.
+2024-10-17 22:30:02,878 - root - INFO - Logging configured.
+2024-10-17 22:30:02,879 - root - INFO - Environment variables loaded.
+2024-10-17 22:30:02,879 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:30:02,879 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:30:02,879 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:30:02,879 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:30:02,879 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:30:02,879 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:30:02,879 - root - INFO - Application exit.
+2024-10-17 22:30:02,880 - root - INFO - Application shutdown.
+2024-10-17 22:30:02,894 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:30:02,899 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:02,901 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:30:02,903 - root - INFO - The result of 1 + 2 is 3
+2024-10-17 22:30:02,913 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:30:02,916 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:02,918 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:30:02,924 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:30:02,926 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:30:02,928 - root - ERROR - Error: Division by zero.
+2024-10-17 22:30:02,930 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:02,935 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:30:23,498 - root - INFO - Logging configured.
+2024-10-17 22:30:23,499 - root - INFO - Environment variables loaded.
+2024-10-17 22:30:23,499 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:30:23,500 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:30:23,500 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:30:23,500 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:30:23,500 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:30:23,500 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:30:23,501 - root - INFO - Application exit.
+2024-10-17 22:30:23,501 - root - INFO - Application shutdown.
+2024-10-17 22:30:23,503 - root - INFO - Logging configured.
+2024-10-17 22:30:23,504 - root - INFO - Environment variables loaded.
+2024-10-17 22:30:23,504 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:30:23,504 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:30:23,505 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:30:23,505 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:30:23,505 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:30:23,505 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:30:23,505 - root - INFO - Application exit.
+2024-10-17 22:30:23,505 - root - INFO - Application shutdown.
+2024-10-17 22:30:23,520 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:30:23,525 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:23,528 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:30:23,530 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:30:23,532 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:30:23,534 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:30:23,536 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:30:23,538 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:30:23,540 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:30:23,542 - root - ERROR - Error: Division by zero.
+2024-10-17 22:31:39,425 - root - INFO - Logging configured.
+2024-10-17 22:31:39,425 - root - INFO - Environment variables loaded.
+2024-10-17 22:31:39,426 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:31:39,426 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:31:39,427 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:31:39,427 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:31:39,427 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:31:39,427 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:31:39,427 - root - INFO - Application exit.
+2024-10-17 22:31:39,427 - root - INFO - Application shutdown.
+2024-10-17 22:31:39,430 - root - INFO - Logging configured.
+2024-10-17 22:31:39,430 - root - INFO - Environment variables loaded.
+2024-10-17 22:31:39,431 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:31:39,431 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:31:39,431 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:31:39,431 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:31:39,431 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:31:39,431 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:31:39,431 - root - INFO - Application exit.
+2024-10-17 22:31:39,431 - root - INFO - Application shutdown.
+2024-10-17 22:31:39,445 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:31:39,448 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:31:39,450 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:31:39,452 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:31:39,454 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:31:39,456 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:31:39,459 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:31:39,460 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:31:39,462 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:31:39,464 - root - ERROR - Error: Division by zero.
+2024-10-17 22:33:28,878 - root - INFO - Logging configured.
+2024-10-17 22:33:28,879 - root - INFO - Environment variables loaded.
+2024-10-17 22:33:28,880 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:33:28,880 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:33:28,881 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:33:28,881 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:33:28,881 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:33:28,881 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:33:28,881 - root - INFO - Application exit.
+2024-10-17 22:33:28,881 - root - INFO - Application shutdown.
+2024-10-17 22:33:28,883 - root - INFO - Logging configured.
+2024-10-17 22:33:28,884 - root - INFO - Environment variables loaded.
+2024-10-17 22:33:28,884 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:33:28,884 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:33:28,884 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:33:28,885 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:33:28,885 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:33:28,885 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:33:28,885 - root - INFO - Application exit.
+2024-10-17 22:33:28,885 - root - INFO - Application shutdown.
+2024-10-17 22:33:28,900 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:33:28,904 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:28,906 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:33:28,909 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:33:28,911 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:33:28,913 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:28,915 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:33:28,926 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:33:28,928 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:28,937 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:33:28,939 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:28,950 - root - ERROR - Error: Division by zero.
+2024-10-17 22:33:41,273 - root - INFO - Logging configured.
+2024-10-17 22:33:41,274 - root - INFO - Environment variables loaded.
+2024-10-17 22:33:41,274 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:33:41,274 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:33:41,275 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:33:41,275 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:33:41,275 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:33:41,275 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:33:41,275 - root - INFO - Application exit.
+2024-10-17 22:33:41,275 - root - INFO - Application shutdown.
+2024-10-17 22:33:41,278 - root - INFO - Logging configured.
+2024-10-17 22:33:41,278 - root - INFO - Environment variables loaded.
+2024-10-17 22:33:41,278 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:33:41,279 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:33:41,279 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:33:41,279 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:33:41,279 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:33:41,279 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:33:41,279 - root - INFO - Application exit.
+2024-10-17 22:33:41,279 - root - INFO - Application shutdown.
+2024-10-17 22:33:41,293 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:33:41,297 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:41,299 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:33:41,301 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:33:41,303 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:33:41,305 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:41,308 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:33:41,318 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:33:41,321 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:41,331 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:33:41,333 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:33:41,342 - root - ERROR - Error: Division by zero.
+2024-10-17 22:34:59,447 - root - INFO - Logging configured.
+2024-10-17 22:34:59,448 - root - INFO - Environment variables loaded.
+2024-10-17 22:34:59,448 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:34:59,448 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:34:59,449 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:34:59,449 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:34:59,449 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:34:59,449 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:34:59,449 - root - INFO - Application exit.
+2024-10-17 22:34:59,449 - root - INFO - Application shutdown.
+2024-10-17 22:34:59,452 - root - INFO - Logging configured.
+2024-10-17 22:34:59,452 - root - INFO - Environment variables loaded.
+2024-10-17 22:34:59,452 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:34:59,452 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:34:59,453 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:34:59,453 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:34:59,453 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:34:59,453 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:34:59,453 - root - INFO - Application exit.
+2024-10-17 22:34:59,453 - root - INFO - Application shutdown.
+2024-10-17 22:34:59,466 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:34:59,470 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:34:59,473 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:34:59,475 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:34:59,478 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:34:59,480 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:34:59,482 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:34:59,484 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:34:59,486 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:34:59,488 - root - ERROR - Error: Division by zero.
+2024-10-17 22:37:50,404 - root - INFO - Logging configured.
+2024-10-17 22:37:50,405 - root - INFO - Environment variables loaded.
+2024-10-17 22:37:50,405 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:37:50,405 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:37:50,406 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:37:50,406 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:37:50,406 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:37:50,406 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:37:50,406 - root - INFO - Application exit.
+2024-10-17 22:37:50,406 - root - INFO - Application shutdown.
+2024-10-17 22:37:50,409 - root - INFO - Logging configured.
+2024-10-17 22:37:50,410 - root - INFO - Environment variables loaded.
+2024-10-17 22:37:50,410 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:37:50,410 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:37:50,410 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:37:50,410 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:37:50,411 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:37:50,411 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:37:50,411 - root - INFO - Application exit.
+2024-10-17 22:37:50,411 - root - INFO - Application shutdown.
+2024-10-17 22:37:50,425 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:37:50,429 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:37:50,432 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:37:50,433 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:37:50,435 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:37:50,437 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:37:50,439 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:37:50,450 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:37:50,452 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:37:50,457 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:37:50,459 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:37:50,469 - root - ERROR - Error: Division by zero.
+2024-10-17 22:38:16,715 - root - INFO - Logging configured.
+2024-10-17 22:38:16,716 - root - INFO - Environment variables loaded.
+2024-10-17 22:38:16,716 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:38:16,716 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:38:16,717 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:38:16,717 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:38:16,717 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:38:16,717 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:38:16,717 - root - INFO - Application exit.
+2024-10-17 22:38:16,717 - root - INFO - Application shutdown.
+2024-10-17 22:38:16,720 - root - INFO - Logging configured.
+2024-10-17 22:38:16,720 - root - INFO - Environment variables loaded.
+2024-10-17 22:38:16,720 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:38:16,720 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:38:16,721 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:38:16,721 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:38:16,721 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:38:16,721 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:38:16,721 - root - INFO - Application exit.
+2024-10-17 22:38:16,721 - root - INFO - Application shutdown.
+2024-10-17 22:38:16,735 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:38:16,737 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:16,739 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:38:16,741 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:38:16,743 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:38:16,746 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:16,748 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:38:16,750 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:38:16,752 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:16,756 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:38:16,758 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:16,773 - root - ERROR - Error: Division by zero.
+2024-10-17 22:38:55,611 - root - INFO - Logging configured.
+2024-10-17 22:38:55,612 - root - INFO - Environment variables loaded.
+2024-10-17 22:38:55,612 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:38:55,613 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:38:55,613 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:38:55,613 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:38:55,613 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:38:55,613 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:38:55,613 - root - INFO - Application exit.
+2024-10-17 22:38:55,614 - root - INFO - Application shutdown.
+2024-10-17 22:38:55,616 - root - INFO - Logging configured.
+2024-10-17 22:38:55,616 - root - INFO - Environment variables loaded.
+2024-10-17 22:38:55,616 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:38:55,617 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:38:55,617 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:38:55,617 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:38:55,617 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:38:55,617 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:38:55,617 - root - INFO - Application exit.
+2024-10-17 22:38:55,617 - root - INFO - Application shutdown.
+2024-10-17 22:38:55,631 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:38:55,635 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:55,637 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:38:55,639 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:38:55,641 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:38:55,643 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:55,646 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:38:55,648 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:38:55,650 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:55,654 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:38:55,656 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:38:55,668 - root - ERROR - Error: Division by zero.
+2024-10-17 22:39:17,483 - root - INFO - Logging configured.
+2024-10-17 22:39:17,484 - root - INFO - Environment variables loaded.
+2024-10-17 22:39:17,484 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:39:17,484 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:39:17,485 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:39:17,485 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:39:17,485 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:39:17,485 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:39:17,485 - root - INFO - Application exit.
+2024-10-17 22:39:17,485 - root - INFO - Application shutdown.
+2024-10-17 22:39:17,488 - root - INFO - Logging configured.
+2024-10-17 22:39:17,488 - root - INFO - Environment variables loaded.
+2024-10-17 22:39:17,488 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:39:17,488 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:39:17,489 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:39:17,489 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:39:17,489 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:39:17,489 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:39:17,489 - root - INFO - Application exit.
+2024-10-17 22:39:17,489 - root - INFO - Application shutdown.
+2024-10-17 22:39:17,502 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:39:17,506 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:17,508 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:39:17,510 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:39:17,513 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:39:17,515 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:17,517 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:39:17,519 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:39:17,521 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:17,526 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:39:17,528 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:17,530 - root - ERROR - Error: Division by zero.
+2024-10-17 22:39:27,279 - root - INFO - Logging configured.
+2024-10-17 22:39:27,279 - root - INFO - Environment variables loaded.
+2024-10-17 22:39:27,279 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:39:27,280 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:39:27,280 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:39:27,280 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:39:27,280 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:39:27,280 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:39:27,280 - root - INFO - Application exit.
+2024-10-17 22:39:27,280 - root - INFO - Application shutdown.
+2024-10-17 22:39:27,284 - root - INFO - Logging configured.
+2024-10-17 22:39:27,284 - root - INFO - Environment variables loaded.
+2024-10-17 22:39:27,284 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:39:27,284 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:39:27,285 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:39:27,286 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:39:27,286 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:39:27,286 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:39:27,286 - root - INFO - Application exit.
+2024-10-17 22:39:27,286 - root - INFO - Application shutdown.
+2024-10-17 22:39:27,302 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:39:27,306 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:27,308 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:39:27,311 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:39:27,313 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:39:27,315 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:27,317 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:39:27,319 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:39:27,321 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:27,326 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:39:27,328 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:39:27,331 - root - ERROR - Error: Division by zero.
+2024-10-17 22:40:20,715 - root - INFO - Logging configured.
+2024-10-17 22:40:20,716 - root - INFO - Environment variables loaded.
+2024-10-17 22:40:20,716 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:40:20,716 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:40:20,717 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:40:20,717 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:40:20,717 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:40:20,717 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:40:20,717 - root - INFO - Application exit.
+2024-10-17 22:40:20,717 - root - INFO - Application shutdown.
+2024-10-17 22:40:20,720 - root - INFO - Logging configured.
+2024-10-17 22:40:20,720 - root - INFO - Environment variables loaded.
+2024-10-17 22:40:20,720 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:40:20,720 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:40:20,721 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:40:20,721 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:40:20,721 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:40:20,721 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:40:20,721 - root - INFO - Application exit.
+2024-10-17 22:40:20,721 - root - INFO - Application shutdown.
+2024-10-17 22:40:20,734 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:40:20,738 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:40:20,741 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:40:20,743 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:40:20,745 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:40:20,747 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:40:20,749 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:40:20,751 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:40:20,753 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:40:20,757 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:40:20,759 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:40:20,761 - root - ERROR - Error: Division by zero.
+2024-10-17 22:40:39,749 - root - INFO - Logging configured.
+2024-10-17 22:40:39,749 - root - INFO - Environment variables loaded.
+2024-10-17 22:40:39,752 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:40:39,752 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:40:39,795 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:40:39,795 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:40:39,795 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:40:39,795 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:41:02,235 - root - INFO - Application exit.
+2024-10-17 22:41:02,236 - root - INFO - Application shutdown.
+2024-10-17 22:41:38,023 - root - INFO - Logging configured.
+2024-10-17 22:41:38,024 - root - INFO - Environment variables loaded.
+2024-10-17 22:41:38,027 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:41:38,027 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:41:38,070 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:41:38,071 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:41:38,071 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:41:38,071 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:41:44,428 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:42:01,737 - root - INFO - Application exit.
+2024-10-17 22:42:01,737 - root - INFO - Application shutdown.
+2024-10-17 22:47:04,339 - root - INFO - Logging configured.
+2024-10-17 22:47:04,340 - root - INFO - Environment variables loaded.
+2024-10-17 22:47:04,341 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:47:04,341 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:47:04,341 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:47:04,342 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:47:04,342 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:47:04,342 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:47:04,342 - root - INFO - Application exit.
+2024-10-17 22:47:04,342 - root - INFO - Application shutdown.
+2024-10-17 22:47:04,344 - root - INFO - Logging configured.
+2024-10-17 22:47:04,345 - root - INFO - Environment variables loaded.
+2024-10-17 22:47:04,345 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-17 22:47:04,345 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-17 22:47:04,345 - root - ERROR - Error importing plugin exit: cannot import name 'ExitCommand' from partially initialized module 'app.plugins.exit' (most likely due to a circular import) (/Users/vrajpatel/projects2024/Homework6/app/plugins/exit/__init__.py)
+2024-10-17 22:47:04,346 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-17 22:47:04,346 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-17 22:47:04,346 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-17 22:47:04,346 - root - INFO - Application exit.
+2024-10-17 22:47:04,346 - root - INFO - Application shutdown.
+2024-10-17 22:47:04,360 - root - INFO - The result of 2 + 3 is 5
+2024-10-17 22:47:04,365 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:47:04,367 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:47:04,369 - root - ERROR - Error: 'add' command requires exactly 2 arguments.
+2024-10-17 22:47:04,371 - root - INFO - The result of 5 - 3 is 2
+2024-10-17 22:47:04,373 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:47:04,375 - root - ERROR - Insufficient arguments: expected 2 but got 1.
+2024-10-17 22:47:04,377 - root - INFO - The result of 2 * 3 is 6
+2024-10-17 22:47:04,380 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:47:04,384 - root - INFO - The result of 6 / 3 is 2.0
+2024-10-17 22:47:04,387 - root - ERROR - Invalid input: Please provide valid numbers.
+2024-10-17 22:47:04,389 - root - ERROR - Error: Division by zero.
